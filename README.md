@@ -1,5 +1,5 @@
-# pr-diff-app
-This app is a PR-Diff reader
+# PR Diff App
+This app is a PR Diff reader
 
 ## What this app does
 - Read-only access to GitHub pull requests
